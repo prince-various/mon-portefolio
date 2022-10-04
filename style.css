@@ -1,0 +1,158 @@
+.titre{ 
+    background: rgb(21, 71, 75) ;
+    padding: 18px;
+    width: 1270px;
+    font-size: 60px;
+    letter-spacing:2px ;
+    font-weight:500px;
+    font-style: italic;
+    text-align: center;
+    color: rgb(255, 241, 52);
+    border-radius: 60px;  
+    margin: 0px;
+
+}
+body{
+    margin: 30px;
+    color: rgb(255, 255, 255);
+    background: url('imagedeb/clay-banks-TQYTWfN1b7M-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.titre-moyen{
+    width: 490px ;
+    margin: 30px;
+    font-size:25px ;
+    letter-spacing:2px ;
+    color: aqua;
+    text-align: left;
+    
+}
+
+.ligne {
+    background: brown;
+    height: 3px;
+    margin-top: 10px;
+}
+a{  
+    text-align: center;
+}
+a:hover{
+    color: red;
+}
+ol li {
+    font-size:40px ;
+    font-style: italic;
+    line-height:55px ;
+    
+}
+ul li {
+    font-size:40px ;
+    
+}
+p{
+    font-size:30px ;
+    font-style: italic;
+    margin: 20px ;
+    
+}
+.titre-moyenn{
+    font-size:20px ;
+    margin:20px ;
+    width:800px ;
+}
+.imaging{
+    background:rgb(46, 110, 110) ;
+    padding:10px ;
+    width: 180px;
+    font-size:30px ;
+}
+
+div{
+    font-size:25px ;
+}
+nav a { 
+    color:#C0BAAE ;
+    margin: 10px ;
+    text-decoration: none;
+    letter-spacing: 2px;
+    padding: 5px ;
+    font-style: italic;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-align: center; 
+    font-size:25px ;
+    border: bottom 10px;; 
+   
+}
+option{
+    color: aliceblue;
+    background:black;
+}
+::placeholder{
+    text-align:center;
+    color: rgb(3, 3, 2);
+}
+
+.banieretitre{
+    position: absolute;
+    top:70% ;
+    left:27% ;
+    background: #1f4f32;
+    color: rgb(255, 255, 255);
+    border:solid 1px; 
+    border-radius: 60px;
+    padding: 10px;
+    width: 600px; ;
+    text-decoration: none;
+    text-align: center;
+    
+    
+}
+.tittre{ 
+    background: rgb(67, 114, 110) ;
+    padding: 10px;
+    width: 1270px;
+    font-size: 60px;
+    letter-spacing:2px ;
+    font-weight:800;
+    font-style: italic;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border-radius:60px ;
+    
+}
+.banieretitre:hover{
+    background:grey ;
+    color:#49edff;
+}
+nav a:hover{
+    color: rgb(232, 235, 69);
+}
+.baniere{ 
+    width: 100%;
+    height:650px ;
+    text-align:center;
+}
+.vendetta{
+    text-align: center;
+
+} 
+h3 a {
+    color: aqua;
+    text-decoration: none;
+}
+.training{
+    position: absolute;
+    font-size:90px;
+    color: b#C1BBAF;
+    font-size: 100px;
+    left: 3%; 
+    top: 15%;
+    letter-spacing:2px ;
+    
+}
+.bipmage{
+    text-align: center;
+}

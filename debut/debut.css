@@ -1,0 +1,35 @@
+body{
+    background:url('imagedeb/der.jpg') ;
+    background-size: cover;
+    width: 80% ;
+    height: 100px;
+}
+.titrecontainer{
+    margin-top:50px ;
+    margin-bottom:20px ;
+    text-align: center;
+
+}
+.titlesection{
+    color: aqua;
+    font-size:35px ;
+    line-height:20px ;
+
+}
+.subtitresection{
+    font-weight: lighter;
+    font-size: 16px;
+    padding: 5px; 
+}
+.detailcontainer{
+    margin-top:10px ;
+    margin-bottom: 30px ;
+}
+.detailimage{
+    width: 50%;
+    height: auto;
+}
+.description{
+    color:gray;
+}
+
